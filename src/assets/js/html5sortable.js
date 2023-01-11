@@ -1051,7 +1051,7 @@ var sortable = (function () {
                         return data.placeholder;
                     });
                     // check if element is not in placeholders
-                    if (placeholders.indexOf(element) === -1 && sortableElement === element && !_filter(element.children, options.items).length) {
+                    if (placeholders.indexOf(element) === -1 && sortableElement === element) {
                         placeholders.forEach(function (element) { return element.remove(); });
                         element.appendChild(store(sortableElement).placeholder);
                     }
