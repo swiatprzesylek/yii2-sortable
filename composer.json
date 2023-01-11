@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-sortable",
+    "name": "swiatprzesylek/yii2-sortable",
     "description": "Create sortable lists and grids using HTML5 drag and drop API for Yii 2.0.",
     "keywords": ["yii2", "extension", "widget", "sortable", "range", "jquery", "bootstrap"],
     "homepage": "https://github.com/kartik-v/yii2-sortable",
