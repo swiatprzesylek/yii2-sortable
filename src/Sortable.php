@@ -6,7 +6,7 @@
  * @version 1.2.2
  */
 
-namespace kartik\sortable;
+namespace swiatprzesylek\sortable;
 
 use kartik\base\Widget;
 use yii\base\InvalidConfigException;
